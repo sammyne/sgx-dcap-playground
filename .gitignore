@@ -1,0 +1,8 @@
+
+# CMake
+build/
+
+# dummy
+playground/
+
+vendor/teaclave-sgx-sdk
